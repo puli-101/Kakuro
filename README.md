@@ -9,6 +9,7 @@ The goal of the puzzle is to place a digit from 1 to 9, inclusive, into each whi
 for more information: https://en.wikipedia.org/wiki/Kakuro
 
 PROJECT DESCRIPTION
+
 This project offers multi-sized grids (3x3, 4x4 and 5x5) as well as an automatic backtracking solver.
 
 It was made using Java, and it is inspired by the MVC design pattern
