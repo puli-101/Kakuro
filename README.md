@@ -6,4 +6,9 @@ A standard Kakuro puzzle is played on a grid with filled and barred cells, often
 
 The goal of the puzzle is to place a digit from 1 to 9, inclusive, into each white cell so that the sum of the numbers in each entry matches the associated clue, and no digit is repeated within any entry. This absence of duplication allows for the creation of Kakuro puzzles with unique solutions. Like Sudoku, solving a Kakuro puzzle involves exploring various combinations and permutations. There is an unofficial rule in creating Kakuro puzzles that requires each clue to consist of at least two numbers that add up to it, as including only one number would make solving Kakuro puzzles mathematically trivial.
 
-This project offers multi-sized grids (3x3, 4x4 and 5x5) as well as an automatic backtracking solver
+PROJECT DESCRIPTION
+This project offers multi-sized grids (3x3, 4x4 and 5x5) as well as an automatic backtracking solver.
+
+It was made using Java, and it is inspired by the MVC design pattern
+
+You will find the "Test" class containing the main method in the "testing" package. To run the game, simply enter the command: "java -jar <file>.jar."
